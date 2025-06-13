@@ -2,7 +2,7 @@
 $host = "localhost";
 $user = "root";
 $pass = "";
-$dbname = "rwanda_polytechnic";
+$dbname = "rwanda_polytechnique";
 
 $conn = new mysqli($host, $user, $pass, $dbname);
 
